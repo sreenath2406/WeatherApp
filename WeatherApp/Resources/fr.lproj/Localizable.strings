@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Sreenath Reddy Bollam on 05/09/24.
+  
+*/
+"search_location_placeholder" = "Enter by City / State / Zip";
+"search" = "Search";
+"no_data_found" = "No data found";
+"invalid_request" = "Invalid Request";
+"feels_like" = "Feels like %@°C";
+"humidty_value" = "Humidity %@°C";
+"visibility_value" = "Visibility %@kms";
+"empty_search_text" = "Start searching to see your results.";
